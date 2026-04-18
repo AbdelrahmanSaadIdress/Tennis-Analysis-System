@@ -9,9 +9,7 @@
 ## 📽️ Output Demo
 
 > **Watch the system in action:**
-
-https://github.com/user-attachments/assets/d1a73a4c-2b12-47cd-802c-d05a94dd164c
-
+https://github.com/user-attachments/assets/c9a440d8-7f21-472a-b8af-3278fd85a764
 > *The output video shows players tracked with bounding boxes, the ball traced across frames, a live mini-court overlay, and an analysis panel displaying speed metrics — all rendered in real time.*
 
 ---
